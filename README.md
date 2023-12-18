@@ -1,4 +1,4 @@
-### Mini Project Youtube API
+### Mini Project Youtube API for javascript
 
 ## API 설계 내용
 
